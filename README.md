@@ -10,4 +10,6 @@ The repository includes various examples of simple machine learning codes. Each 
 
 Feel free to contribute to this repository by adding more simple machine learning codes or improving the existing ones. Any enhancements or additions are highly appreciated!
 
+## Acknowledgements
 
+Special thanks to [codebasics.io](https://codebasics.io/) for their valuable contributions and assistance in developing some of the code snippets in this repository.
